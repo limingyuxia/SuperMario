@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/images/super_mario_bros.bmp</file>
+        <file>resource/images/ico.bmp</file>
+        <file>resource/images/122.bmp</file>
+        <file>resource/images/11.bmp</file>
+        <file>resource/images/mario_lvlup.bmp</file>
+        <file>resource/images/brickred.bmp</file>
+        <file>resource/images/mario.bmp</file>
+        <file>resource/images/bush_center_1.bmp</file>
+        <file>resource/images/bush_center_0.bmp</file>
+        <file>resource/images/blockq_0.bmp</file>
+        <file>resource/images/water_2.bmp</file>
+        <file>resource/music/overworld.wav</file>
+    </qresource>
+</RCC>
